@@ -1,3 +1,7 @@
+Feb 23, 2024:
+- autologin: Fix ini import creating blank passwords when stationnames entries exist
+- autologin: Add right click option to Characters UI to add a character to a profile group
+
 Feb 22, 2024:
 - autologin: Fix crash that could occur when the MQ launcher starts up
 - autologin: Fix remove profile showing group
